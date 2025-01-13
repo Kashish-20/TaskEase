@@ -9,8 +9,8 @@ The use of the MERN stack ensures the app’s scalability and flexibility, while
 
 ## Admin Features
 **1. User Management:**
-    - Create and manage admin accounts.
-    - Add, remove, and manage team members.
+  - Create and manage admin accounts.
+  - Add, remove, and manage team members.
 
 **2. Task Assignment:**
    - Assign tasks to users (individually or in groups).
