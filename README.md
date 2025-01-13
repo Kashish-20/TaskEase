@@ -9,26 +9,26 @@ The use of the MERN stack ensures the app’s scalability and flexibility, while
 
 ## Admin Features
 + User Management:
-- Create and manage admin accounts.
-- Add, remove, and manage team members.
+ - Create and manage admin accounts.
+ - Add, remove, and manage team members.
 
 + Task Assignment:
-- Assign tasks to users (individually or in groups).
-- Modify task details and update task statuses.
+ - Assign tasks to users (individually or in groups).
+ - Modify task details and update task statuses.
 
-Task Properties:
++ Task Properties:
+ - Label tasks based on their status (Todo, In Progress, Completed).
+ - Assign priority levels (High, Medium, Low).
+ - Manage sub-tasks for better task breakdown.
 
-Label tasks based on their status (Todo, In Progress, Completed).
-Assign priority levels (High, Medium, Low).
-Manage sub-tasks for better task breakdown.
-Asset Management:
-
-Upload and associate assets, such as images, to tasks.
-User Account Control:
-
-Enable/disable user accounts as needed.
-Permanently delete or move tasks to trash.
-User Features
++ Asset Management:
+ - Upload and associate assets, such as images, to tasks.
+   
++ User Account Control:
+ - Enable/disable user accounts as needed.
+ - Permanently delete or move tasks to trash.
+   
+## User Features
 Task Interaction:
 
 Change task statuses (In Progress or Completed).
