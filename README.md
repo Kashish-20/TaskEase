@@ -2,13 +2,13 @@
 # Overview
 TaskEase is a modern web application designed to streamline task management within teams, ensuring effective collaboration, smooth workflows, and increased productivity. Built using the MERN stack (MongoDB, Express.js, React, and Node.js), this platform offers a user-friendly and intuitive interface for administrators and team members to manage, assign, and track tasks seamlessly.
 
-# Problem Statement
+## Problem Statement
 In today’s fast-paced work environment, managing tasks efficiently is essential for success. Traditional task tracking methods like spreadsheets and manual systems can lead to confusion, missed deadlines, and errors. TaskEase addresses these challenges by offering a centralized solution that simplifies task management, enhances communication, and improves team efficiency. As remote work and distributed teams continue to grow, there is an increasing demand for tools that facilitate seamless collaboration and clear task coordination. TaskEase leverages modern web technologies to create a responsive, intuitive, and scalable platform for teams to manage tasks effectively.
 
 The use of the MERN stack ensures the app’s scalability and flexibility, while additional technologies like Redux Toolkit, Headless UI, and Tailwind CSS enhance performance and user experience.
 
-# Features
-Admin Features
+## Features
+### Admin Features
 User Management:
 
 Create and manage admin accounts.
