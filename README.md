@@ -29,11 +29,11 @@ The use of the MERN stack ensures the app’s scalability and flexibility, while
   - Permanently delete or move tasks to trash.
    
 ## User Features
-Task Interaction:
-
-Change task statuses (In Progress or Completed).
-View detailed task information.
-Communication:
+**1. Task Interaction:**
+  - Change task statuses (In Progress or Completed).
+  - View detailed task information.
+    
+**2. Communication:**
 
 Add comments and engage in task-related discussions.
 General Features
