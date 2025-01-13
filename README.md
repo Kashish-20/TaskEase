@@ -8,23 +8,23 @@ In today’s fast-paced work environment, managing tasks efficiently is essentia
 The use of the MERN stack ensures the app’s scalability and flexibility, while additional technologies like Redux Toolkit, Headless UI, and Tailwind CSS enhance performance and user experience.
 
 ## Admin Features
-**+ User Management:**
-  - Create and manage admin accounts.
-  - Add, remove, and manage team members.
+**1. User Management:**
+   - Create and manage admin accounts.
+   - Add, remove, and manage team members.
 
-+ Task Assignment:
+**2. Task Assignment:**
   - Assign tasks to users (individually or in groups).
   - Modify task details and update task statuses.
 
-+ Task Properties:
+**3. Task Properties:**
   - Label tasks based on their status (Todo, In Progress, Completed).
   - Assign priority levels (High, Medium, Low).
   - Manage sub-tasks for better task breakdown.
 
-+ Asset Management:
+**4. Asset Management:**
   - Upload and associate assets, such as images, to tasks.
    
-+ User Account Control:
+**5. User Account Control:**
   - Enable/disable user accounts as needed.
   - Permanently delete or move tasks to trash.
    
