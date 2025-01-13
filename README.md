@@ -9,57 +9,57 @@ The use of the MERN stack ensures the app’s scalability and flexibility, while
 
 ## Admin Features
 **1. User Management:**
-   - Create and manage admin accounts.
-   - Add, remove, and manage team members.
+    - Create and manage admin accounts.
+    - Add, remove, and manage team members.
 
 **2. Task Assignment:**
-  - Assign tasks to users (individually or in groups).
-  - Modify task details and update task statuses.
+   - Assign tasks to users (individually or in groups).
+   - Modify task details and update task statuses.
 
 **3. Task Properties:**
-  - Label tasks based on their status (Todo, In Progress, Completed).
-  - Assign priority levels (High, Medium, Low).
-  - Manage sub-tasks for better task breakdown.
+   - Label tasks based on their status (Todo, In Progress, Completed).
+   - Assign priority levels (High, Medium, Low).
+   - Manage sub-tasks for better task breakdown.
 
 **4. Asset Management:**
-  - Upload and associate assets, such as images, to tasks.
+   - Upload and associate assets, such as images, to tasks.
    
 **5. User Account Control:**
-  - Enable/disable user accounts as needed.
-  - Permanently delete or move tasks to trash.
+   - Enable/disable user accounts as needed.
+   - Permanently delete or move tasks to trash.
    
 ## User Features
 **1. Task Interaction:**
-  - Change task statuses (In Progress or Completed).
-  - View detailed task information.
+   - Change task statuses (In Progress or Completed).
+   - View detailed task information.
     
 **2. Communication:**
-  - Add comments and engage in task-related discussions.
+   - Add comments and engage in task-related discussions.
     
 ## General Features
 **1. Authentication & Authorization:**
-  - Secure login with role-based access control for admins and users.
+   - Secure login with role-based access control for admins and users.
     
 **2. Profile Management:**
-  - Users can update their profiles.
-  - Change passwords securely.
+   - Users can update their profiles.
+   - Change passwords securely.
     
 **3. Dashboard:**
-  - Displays an overview of tasks and user activity.
-  - Filter tasks by their current status (Todo, In Progress, Completed).
+   - Displays an overview of tasks and user activity.
+   - Filter tasks by their current status (Todo, In Progress, Completed).
     
 ## Technologies Used
 **Frontend:**
-  - React (Vite)
-  - Redux Toolkit for state management
-  - Headless UI for accessible and customizable UI components
-  - Tailwind CSS for utility-first styling
+   - React (Vite)
+   - Redux Toolkit for state management
+   - Headless UI for accessible and customizable UI components
+   - Tailwind CSS for utility-first styling
     
 **Backend:**
-  - Node.js with Express.js for handling API requests and server logic
+   - Node.js with Express.js for handling API requests and server logic
     
 **Database:**
-  - MongoDB for flexible and scalable data storage
+   - MongoDB for flexible and scalable data storage
     
 # Conclusion
 TaskEase is an all-in-one task management solution that empowers teams to collaborate and stay organized, no matter where they are located. Built on the robust MERN stack, the platform offers a seamless experience with enhanced performance, scalability, and a focus on user experience. TaskEase is perfect for modern teams looking to optimize their workflows and improve productivity.
